@@ -294,7 +294,7 @@ body {
     list-style-type: none;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(4, minmax(130px, 150px)); 
+    grid-template-columns: repeat(5, minmax(130px, 150px)); 
     gap: 10px;
     justify-content: center; 
     margin-top: 30px;
